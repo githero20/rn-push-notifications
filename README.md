@@ -1,4 +1,4 @@
-# Expense Tracker
+# App Notifications
 
 ## Description
 
